@@ -1,4 +1,4 @@
-MiamiJS
-=======
+`undefined`
+===========
 
-Miami JavaScript meetup.
+The as of yet undefined South Florida JavaScript meetup.
